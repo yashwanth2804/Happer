@@ -3,7 +3,7 @@ A real time Firebase chatting app(Android) ,with some custom features
 
 #Login Activity and ChatLayout
 <a href="url"><img src="https://cloud.githubusercontent.com/assets/8038593/18116209/6b14a12e-6f63-11e6-93a6-291a50f998a4.png"
-width="320" height="520" >  <img src="https://lh6.googleusercontent.com/F-RHjBmBOX1QjshyS1ZjYsYBbr5puPkpWYRonw_sz9Sn7FZ1arUR8YvLtezno3cJ5vJOuXVVbDcEzfE=w1366-h681-rw" width="320" height="520">
+width="320" height="520" >  <img src="https://cloud.githubusercontent.com/assets/8038593/18123282/d8c63738-6f8a-11e6-8db5-a5ea362affac.png" width="320" height="520">
 
 </a> 
 
