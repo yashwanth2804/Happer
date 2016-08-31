@@ -20,7 +20,7 @@ width="320" height="520" ></a>
 <img src="https://lh4.googleusercontent.com/sdEAcWkm0yD4rJLIiRqYrMtKSGj1PuySNKvZbGjH87dag7mBHj_gRvoUcrUtH0nbyM6lAWG4DvTP4vE=w1366-h681-rw" width="320" height="520"> <img src="https://lh6.googleusercontent.com/mBR5bDfOPBI06tcrqTDPUkJ-l3SH86KoZX6sYiN2k461eapPJX4S5zpYzev1CFWLXPkXFN5BO0MJyfI=w1366-h681-rw" width="320" height="520"> <img src="https://lh6.googleusercontent.com/_qEVoKlkXK5VktEMq0gWXba69-lMHt43cOxxNjR1WnBne8t8phZdnb44jhxEsdYKDKVbhykCX5QSzSM=w1366-h681-rw" width="320" height="520"> 
 
 #Link to download app (Beta)
-[Click here to download ](http://goo.gl/zjCjqa)
+[Click here to download *7.6 mb* ](http://goo.gl/zjCjqa)
 
 ###That's All Folks 
 
